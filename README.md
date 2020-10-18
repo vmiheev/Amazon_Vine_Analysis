@@ -28,5 +28,5 @@ The following are the analysis calculations for the Vine and non-Vine reviews:
 
 ## Summary
 
-* There appears to be a bias of higher reviews towards the Vine program. This is supported by 51.1% of the Vine reviews being five star reviews, while only 38.7% of the unpaid reviews being five star reviews.
+* There appears to be a bias towards higher reviews in the Vine program. This is supported by 51.1% of the Vine reviews being five star reviews, while only 38.7% of the unpaid reviews being five star reviews.
 * As an additional test to support the positivity bias for reviews in the Vine program, a two-sample t-test could be conducted to determine whether there is a statistical difference between the means of the Vine and non-Vine review samples.
